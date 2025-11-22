@@ -288,9 +288,9 @@ Contributions are welcome! Here's how you can help:
 
 ## 📧 Contact
 
-Saahil Jawale - [@myLinkedIn](https://www.linkedin.com/in/saahil-jawale-02b930211/)
+Sasidhar Reddy- [@myLinkedIn](https://www.linkedin.com/in/sasidhar-reddy-gangi-reddy/)
 
-Project Link: [https://github.com/Saahil2106/LLM-Debate-Agent](https://github.com/Saahil2106/LLM-Debate-Agent)
+Project Link: (https://github.com/sasidharreddy-cu/Capstone_Project)
 
 ---
 
