@@ -1,4 +1,5 @@
-# AI Debate Agent
+# AI Debate Agent – Capstone Project
+
 
 An intelligent debate system powered by OpenAI that simulates strategic arguments between two AI agents with real-time judging and scoring.
 
